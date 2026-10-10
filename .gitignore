@@ -75,3 +75,6 @@ docker-compose.prod.yml
 
 # NX
 .nx/
+
+
+.idea/*
